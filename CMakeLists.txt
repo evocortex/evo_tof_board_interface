@@ -136,7 +136,7 @@ add_executable(${PROJECT_NAME}_test_node
 
 target_link_libraries(${PROJECT_NAME}_test_node
   ${PROJECT_NAME}
-  evo_mbed_tools
+  evo-mbed-tools
   pthread
 )
 
